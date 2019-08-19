@@ -1,0 +1,4 @@
+{
+    "m":  "$input.params('m')",
+    "n":  "$input.params('n')"
+}
